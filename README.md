@@ -8,5 +8,5 @@ NeuroStartUp — динамически развивающийся старта�
 - Высокая скорость поиска
 - Низкая цена
 
-![Логотип NeuroStartUp]<img src="logo.png" alt="Логотип NeuroStartUp">
+![Логотип NeuroStartUp](https://github.com/SAINThUSSEIN/neurodemo/blob/main/logo.png)
 
